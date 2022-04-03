@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use gtk4::pango::{self, Attribute};
+use gtk::pango::{self, Attribute};
 
 use directories::ProjectDirs;
 use once_cell::sync::Lazy;
